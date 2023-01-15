@@ -84,7 +84,7 @@ li::first-letter {
 
 .weather-forecast-temperature-min {
   opacity: 0.5;
-  margin: 5px;
+  margin: 1px;
 }
 #fahrenheit-link {
   text-decoration: none;
